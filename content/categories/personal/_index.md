@@ -1,5 +1,5 @@
 ---
-title: personalÍ
+title: personal
 description: Projects done in my free time
 image:
 
