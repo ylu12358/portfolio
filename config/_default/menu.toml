@@ -11,14 +11,34 @@
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/ylu12358"
+weight = 2
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "youtube"
+name = "YouTube"
+url = "https://www.youtube.com/@YuanyangL"
+weight = 3
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-youtube"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/yuanyanglu/"
+weight = 1
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "email"
+name = "Email"
+url = "mailto:ylu12358@gmail.com"
+weight = 4
+
+[social.params]
+icon = "mail"
