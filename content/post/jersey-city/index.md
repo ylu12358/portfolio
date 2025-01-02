@@ -2,7 +2,7 @@
 title: Jersey City Adventures
 description: Side quest with the nocticron
 slug: jersey-city
-date: 2024-04-19 00:00:00+0000
+date: 2024-08-28 00:00:00+0000
 image: 1.jpg
 categories:
     - photography
