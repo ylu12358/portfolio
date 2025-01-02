@@ -12,7 +12,7 @@ Had a nice trip out to Sausalito for the day with a friend. Probably should've s
 
 Started the day out at the rest area just after crossing the Golden Gate. Snapped these from that parking lot:
 
-![Image 1](P1019314.jpg) ![Image 2](P1019315.jpg) ![Image 3](P1019319.jpg) ![Image 4](P1019322.jpg) ![Image 5](P1019324.jpg) ![Image 6](P1019326.jpg) ![Image 7](P1019327.jpg) ![Image 8](P1019329.jpg) ![Image 9](P1019330.jpg) ![Image 10](P1019331.jpg) ![Image 11](P1019332.jpg) ![Image 12](P1019333.jpg) ![Image 13](P1019334.jpg) 
+![Image 1](P1019314.jpg) ![Image 2](P1019315.jpg) ![Image 3](P1019319.jpg) ![Image 4](P1019322.jpg) ![Image 5](P1019324.jpg) ![Image 6](P1019326.jpg) ![Image 7](P1019327.jpg) ![Image 8](P1019329.jpg) ![Image 9](P1019330.jpg) ![Image 10](P1019331.jpg) ![Image 11](P1019332.jpg) ![Image 12](P1019333.jpg) ![Image 13](P1019334.jpg)
 
 Grabbed some more pictures around town:
 
