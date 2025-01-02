@@ -17,4 +17,4 @@ hasCJKLanguage = false
 disqusShortname = "hugo-theme-stack"
 
 [build]
-timeout = "120s"
+timeout = "10m"
