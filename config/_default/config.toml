@@ -1,7 +1,8 @@
 # Change baseurl before deploy
 baseurl = "https://yuanyanglu.com"
 languageCode = "en-us"
-paginate = 5
+[pagination]
+pagerSize = 5
 title = "Yuanyang Lu"
 
 # Theme i18n support
