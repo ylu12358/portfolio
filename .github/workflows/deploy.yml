@@ -42,7 +42,8 @@ jobs:
                   extended: true
 
             - name: Build
-              run: hugo --gc --ignoreCache
+              run: hugo --gc --ignoreCache --debug
+              timeout-minutes: 10 # Set timeout for this job to 10 minutes
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@v4
