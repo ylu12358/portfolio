@@ -3,7 +3,7 @@ title: Jersey City Adventures
 description: Side quest with the nocticron
 slug: jersey-city
 date: 2024-08-28 00:00:00+0000
-image: 1.jpg
+image: P1007705.jpg
 categories:
     - photography
 ---
@@ -16,4 +16,4 @@ I then spotted a killer deal on Facebook Marketplace for a Panasonic Leica 15mm 
 
 To make the trek more worthwhile, I decided to grab a few pictures of the NYC skyline from Liberty State Park before heading back. I just barely managed to escape the thunderstorm—it was a wet drive home, to say the least. Photos are below.
 
-![Image 1](1.jpg) ![Image 2](2.jpg) ![Image 3](3.jpg) ![Image 4](4.jpg) ![Image 5](5.jpg) ![Image 6](6.jpg)
+![Image 1](P1007705.jpg) ![Image 2](P1007710.jpg) ![Image 3](P1007725.jpg) ![Image 4](P1007738.jpg) ![Image 5](P1007744.jpg) ![Image 6](P1007749.jpg)
