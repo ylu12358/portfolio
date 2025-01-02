@@ -20,4 +20,4 @@ Grabbed some more pictures around town:
 
 And finally we drove up to Hawk Hill for some higher vantage points:
 
-<!--![Image 32](P1019376.jpg) ![Image 33](P1019381.jpg) ![Image 34](P1019382.jpg) ![Image 35](P1019383.jpg) ![Image 36](P1019384.jpg) ![Image 37](P1019385.jpg) ![Image 38](P1019388.jpg) ![Image 39](P1019392.jpg) ![Image 40](P1019394.jpg) ![Image 41](P1019397.jpg) ![Image 42](P1019398.jpg) ![Image 43](P1019399.jpg) ![Image 44](P1019402.jpg) ![Image 45](P1019403.jpg) -->
+![Image 32](P1019376.jpg) ![Image 33](P1019381.jpg) ![Image 34](P1019382.jpg) ![Image 35](P1019383.jpg) ![Image 36](P1019384.jpg) ![Image 37](P1019385.jpg) ![Image 38](P1019388.jpg) ![Image 39](P1019392.jpg) ![Image 40](P1019394.jpg) ![Image 41](P1019397.jpg) ![Image 42](P1019398.jpg) ![Image 43](P1019399.jpg) ![Image 44](P1019402.jpg) ![Image 45](P1019403.jpg)
