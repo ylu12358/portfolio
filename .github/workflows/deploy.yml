@@ -42,7 +42,7 @@ jobs:
                   extended: true
 
             - name: Build
-              run: hugo --gc --ignoreCache --logLevel debug
+              run: hugo --minify --gc
               timeout-minutes: 10 # Set timeout for this job to 10 minutes
 
             - name: Deploy 🚀
